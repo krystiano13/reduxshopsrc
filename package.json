@@ -1,0 +1,44 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://krystiano13.github.io/reduxshop/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react-dom": "^18.0.9",
+    "@types/react-redux": "^7.1.24",
+    "@types/styled-components": "^5.1.26",
+    "final-form": "^4.20.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-final-form": "^6.5.9",
+    "react-scripts": "^5.0.1",
+    "styled-components": "^5.3.6",
+    "typescript": "^4.9.4"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "react-redux": "^8.0.5",
+    "react-router": "^6.5.0",
+    "react-router-dom": "^6.5.0",
+    "redux": "^4.2.0"
+  }
+}
